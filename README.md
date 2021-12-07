@@ -2,11 +2,18 @@
 Multiplayer Server for the mxMinecraft Club
 
 ## Version 1.18 - Caves and Cliffs: Part II
-mxMinecraft runs Mojang v1.18 Vanilla Minecraft Server on minecraft.mxschool.edu server.
-1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave
-biomes, and flooded caves.
+mxMinecraft runs Mojang v1.18 Vanilla Minecraft Server, released on 30 November 2021. 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
-Server Started on ___ December 2021
+Server Started on ___ December 2021 <br />
+Server URL: minecraft.mxschool.edu
+
+## How to join
+Contact one of our team captains below and ask for the link. You'll be asked to fill out a short survey with your Minecraft username and join our Discord server. All users must be students in good standing with verified accounts.
+
+## Server Rules
+- Join the Discord
+- Fill out the survey
+- As stated in the handbook, this virtual minecraft world is a place on campus. All school rules and norms apply.
 
 ## About Us
 mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
