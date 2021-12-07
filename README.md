@@ -10,8 +10,8 @@ Server Started on ___ December 2021
 
 ## About Us
 mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
-Nick DeBruin, Co-Captain, \<nfdebruin@mxschool.edu\>
-JoJo Nwosu, Co-Captain, \<jcnwosu@mxschool.edu\>
+- Nick DeBruin, Co-Captain, Class of 2022, \<nfdebruin@mxschool.edu\>
+- JoJo Nwosu, Co-Captain, Class of 2022, \<jcnwosu@mxschool.edu\>
 
 Repository created and maintained by @mxChuck <br />
 *Charles J McDonald, Academic Technology Specialist, Middlesex School \<cjmcdonald@mxschool.edu\>*
