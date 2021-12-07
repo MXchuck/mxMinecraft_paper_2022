@@ -9,7 +9,11 @@ biomes, and flooded caves.
 Server Started on ___ December 2021
 
 ## About Us
-Repository Created and Maintained by @mxChuck <br />
+mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
+Nick DeBruin, Co-Captain, \<nfdebruin@mxschool.edu\>
+JoJo Nwosu, Co-Captain, \<jcnwosu@mxschool.edu\>
+
+Repository created and maintained by @mxChuck <br />
 *Charles J McDonald, Academic Technology Specialist, Middlesex School \<cjmcdonald@mxschool.edu\>*
 
 Middlesex School is an independent, secondary school following the New England boarding school tradition.  </br>
