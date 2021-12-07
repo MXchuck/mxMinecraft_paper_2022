@@ -14,7 +14,7 @@ Contact one of our team captains below and ask for the link. You'll be asked to 
 - Join the Discord
 - Fill out the survey
 - As stated in the handbook, this virtual minecraft world is a place on campus. All school rules and norms apply.
-- [Read our Security Policy](/SECURITY.md)
+- [Click here to read our Security Policy](/SECURITY.md)
 
 ## About Us
 mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
