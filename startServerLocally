@@ -1,2 +1,2 @@
-# Script to use Java8 on my personal laptop, used for testing
-/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xms1G -Xmx4G -jar minecraft_server.1.17.jar
+# Script to run a local copy of the server from my personal laptop, used for testing.
+/Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xms8G -Xmx4G -jar minecraft_server_1.18.jar
