@@ -8,12 +8,11 @@ Server Started on ___ December 2021 <br />
 Server URL: minecraft.mxschool.edu
 
 ## How to join
-Contact one of our team captains below and ask for the link. You'll be asked to fill out a short survey with your Minecraft username and join our Discord server. All users must be students in good standing with verified accounts.
+Contact one of our team captains below and ask for the link. You will be asked to fill out a short survey with your Minecraft username and agree to our server policies. All users must be students in good standing with verified accounts.
 
 ## Server Rules
-- Join the Discord
-- Fill out the survey
-- As stated in the handbook, this virtual minecraft world is a place on campus. All school rules and norms apply.
+- Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said it or did it publicly in StuFac; all school rules and norms apply.
+- Griefing is a toxic behavior in which one player deliberately harasses another player using the game's mechanics. Griefing is not allowed and will not be tolerated on our server.
 - [Click here to read our Security Policy](/SECURITY.md)
 
 ## About Us
