@@ -1,4 +1,4 @@
-# mxMinecraft ![Server Icon](/server-icon-64.png)
+# mxMinecraft ![Server Icon](/server-icon.png)
 Multiplayer Server for the mxMinecraft Club
 
 ## Version 1.18 - Caves and Cliffs: Part II
