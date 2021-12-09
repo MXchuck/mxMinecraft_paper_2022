@@ -2,7 +2,7 @@
 Multiplayer Server for the mxMinecraft Club
 
 ## Version 1.18 - Caves and Cliffs: Part II
-mxMinecraft runs Mojang's Vanilla Minecraft Server v1.18, released on 30 November 2021. <br />
+mxMinecraft runs Mojang's Java Minecraft Server v1.18, released on 30 November 2021. <br />
 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
 Server Started on 17 December 2021 <br />
@@ -20,6 +20,7 @@ Contact one of our team captains below and ask for the link. You will be asked t
 - You must be a member of the Middlesex community in good standing with a verified account to access this server.
 - While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
 - [Click here to read our Security Policy](/SECURITY.md)
+- [Click here to read our Server Properties file](/server.properties)
 
 ## About Us
 mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
