@@ -5,7 +5,10 @@ Multiplayer Server for the mxMinecraft Club
 mxMinecraft runs Mojang v1.18 Vanilla Minecraft Server, released on 30 November 2021. 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
 Server Started on 17 December 2021 <br />
-Server URL: minecraft.mxschool.edu
+Server URL: minecraft.mxschool.edu <br />
+[Click here to get the Minecraft launcher](https://www.minecraft.net/en-us/about-minecraft)
+
+Please note that Microsoft will require you to migrate your Mojang account over to a Microsoft Account. Please create a Microsoft account or use a personal gmail address. You will not be able to use your mxSchool email address for this.
 
 ## How to join
 Contact one of our team captains below and ask for the link. You will be asked to fill out a short survey with your Minecraft username and agree to our server policies.
