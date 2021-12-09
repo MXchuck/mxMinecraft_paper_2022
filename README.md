@@ -7,7 +7,8 @@ mxMinecraft runs Mojang's Vanilla Minecraft Server v1.18, released on 30 Novembe
 
 Server Started on 17 December 2021 <br />
 Server URL: **minecraft.mxschool.edu** <br />
-[Click here to get the Minecraft launcher](https://www.minecraft.net/en-us/about-minecraft) -- We are using the **Java** version of Minecraft, **not the Bedrock** version.
+[Click here to get the Minecraft launcher](https://www.minecraft.net/en-us/about-minecraft) <br />
+We are using the **Java** version of Minecraft, **not** the Bedrock version.
 
 Please note that Microsoft will require you to migrate your Mojang account over to a Microsoft Account. Please create a Microsoft account or use a personal gmail address. You will not be able to use your mxSchool email address for this.
 
