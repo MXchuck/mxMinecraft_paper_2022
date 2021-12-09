@@ -2,7 +2,8 @@
 Multiplayer Server for the mxMinecraft Club
 
 ## Version 1.18 - Caves and Cliffs: Part II
-mxMinecraft runs Mojang v1.18 Vanilla Minecraft Server, released on 30 November 2021. 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
+mxMinecraft runs Mojang's Vanilla Minecraft Server v1.18, released on 30 November 2021. <br />
+1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
 Server Started on 17 December 2021 <br />
 Server URL: minecraft.mxschool.edu <br />
@@ -29,5 +30,5 @@ Repository created and maintained by @mxChuck <br />
 
 The Minecraft Server JAR and all world files are not archived in this repository but can be freely downloaded from original sources. A weekly backup of all world-generated files is available upon request.
 
-Middlesex School is an independent, secondary school following the New England boarding school tradition.  </br>
+Middlesex School is an independent, secondary school following the New England boarding school tradition. <br />
 Learn more at: \<[https://mxschool.edu](https://mxschool.edu)\>.
