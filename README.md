@@ -13,12 +13,12 @@ We are using the **Java** version of Minecraft, **not** the Bedrock version.
 Please note that Microsoft will require you to migrate your Mojang account over to a Microsoft Account. Please create a Microsoft account or use a personal gmail address. You will not be able to use your mxSchool email address for this.
 
 ## How to join
-Contact one of our team captains below and ask for the link. You will be asked to fill out a short survey with your Minecraft username and agree to our server policies.
+Contact one of our team captains below and ask for the link. You will be asked to fill out a short survey with your Minecraft username and agree to our server rules & policies.
 
 ## Server Rules
 - Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said it or did it publicly in StuFac; all school rules and norms apply.
 - You must be a member of the Middlesex community in good standing with a verified account to access this server.
-- While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
+- While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
 - [Click here to read our Security Policy](/SECURITY.md)
 
 ## About Us
