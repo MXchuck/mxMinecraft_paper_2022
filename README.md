@@ -16,7 +16,7 @@ Please note that Microsoft will require you to migrate your Mojang account over 
 Contact one of our team captains below and ask for the link. You will be asked to fill out a short survey with your Minecraft username and agree to our server rules & policies.
 
 ## Server Rules
-- Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said it or did it publicly in StuFac; all school rules and norms apply.
+- Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said or did it publicly in StuFac; all school rules and norms apply.
 - You must be a member of the Middlesex community in good standing with a verified account to access this server.
 - While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
 - [Click here to read our Security Policy](/SECURITY.md)
@@ -27,7 +27,7 @@ mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
 - Nick DeBruin, Co-Captain, Class of 2022, \<nfdebruin@mxschool.edu\>
 - JoJo Nwosu, Co-Captain, Class of 2022, \<jcnwosu@mxschool.edu\>
 
-Repository created and maintained by @mxChuck <br />
+Server and Repository created and maintained by @mxChuck <br />
 *Charles J McDonald, Academic Technology Specialist, Middlesex School \<cjmcdonald@mxschool.edu\>*
 
 The Minecraft Server JAR and all world files are not archived in this repository but can be freely downloaded from original sources. A weekly backup of all world-generated files is available upon request.
