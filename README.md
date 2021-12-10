@@ -6,14 +6,18 @@ mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December
 1.18.1 is a minor update to Java Edition which makes minor changes related to fog and fixes bugs. <br />
 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
-Server Started on 17 December 2021 <br />
-Server URL: **minecraft.mxschool.edu** <br />
-The Microsoft Minecraft launcher can be [downloaded using this link.](https://www.minecraft.net/en-us/about-minecraft) <br />
-MultiMC can run multiple instances of Minecraft using Microsoft or Mojang accounts. [Download MultiMC using this link.](https://multimc.org) <br />
-Minecraft JAR files can be downloaded from [MCversions, linked here.](https://mcversions.net) <br />
+Server Started on __ December 2021 <br />
+
+## Get Minecraft
+To run Minecraft on your computer, you will need Java version 17. Use the link below to download the Open Source version of Oracle's Java SE Platform. Then you will need a Minecraft launcher. Use either the Microsoft launcher or the OpenSource MultiMC app both linked below.
+
+[Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
+[Microsoft's Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
 
 We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
 Please note that Microsoft will require you to migrate your Mojang account over to a Microsoft Account. Please create a Microsoft account or use a personal gmail address. You will not be able to use your mxSchool email address for this.
+
+Once you run Minecraft, choose multiplayer and add the multiplayer server URL: **minecraft.mxschool.edu**
 
 ## How to join
 Contact one of our team captains below and ask for the link. You will be asked to fill out a short survey with your Minecraft username and agree to our server rules & policies.
