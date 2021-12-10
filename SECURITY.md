@@ -1,5 +1,5 @@
 # Security Policy
-Our server runs the latest release of the Java version of Minecraft; Currently 1.18. <br />
+Our server runs the latest release of the Java version of Minecraft; Currently 1.18.1 <br />
 This server stores no personal data.
 
 ## Reporting security problems
