@@ -9,7 +9,7 @@ mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December
 Server Started on __ December 2021 <br />
 
 ## Get Minecraft
-To run Minecraft on your computer, you will need Java version 17 and a Minecraft launcher
+To run Minecraft on your computer, you will need Java version 17 and a Minecraft launcher:
 - [Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
 - [Microsoft's Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
 
