@@ -2,4 +2,4 @@
 # /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java -Xms8G -Xmx4G -jar minecraft_server_1.18.jar
 #
 # Run Minecraft and keep the terminal window as an active console
-java -Xmx8G -Xms1G -jar minecraft_server_1.18.jar
+java -Xmx8G -Xms1G -jar minecraft_server_1.18.1.jar
