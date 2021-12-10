@@ -9,10 +9,9 @@ mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December
 Server Started on __ December 2021 <br />
 
 ## Get Minecraft
-To run Minecraft on your computer, you will need Java version 17. Use the link below to download the Open Source version of Oracle's Java SE Platform. Then you will need a Minecraft launcher. Use either the Microsoft launcher or the OpenSource MultiMC app both linked below.
-
-[Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/) <br />
-[Microsoft's Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
+To run Minecraft on your computer, you will need Java version 17 and a Minecraft launcher
+- [Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
+- [Microsoft's Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
 
 We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
 Please note that Microsoft will require you to migrate your Mojang account over to a Microsoft Account. Please create a Microsoft account or use a personal gmail address. You will not be able to use your mxSchool email address for this.
