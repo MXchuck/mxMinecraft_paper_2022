@@ -11,7 +11,7 @@ Server Started on __ December 2021 <br />
 ## Get Minecraft
 To run Minecraft on your computer, you will need Java version 17. Use the link below to download the Open Source version of Oracle's Java SE Platform. Then you will need a Minecraft launcher. Use either the Microsoft launcher or the OpenSource MultiMC app both linked below.
 
-[Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
+[Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/) <br />
 [Microsoft's Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
 
 We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
