@@ -8,9 +8,9 @@ mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December
 
 Server Started on 17 December 2021 <br />
 Server URL: **minecraft.mxschool.edu** <br />
-[The Microsoft Minecraft launcher can be downloaded here.](https://www.minecraft.net/en-us/about-minecraft) <br />
-[MultiMC can run multiple instances of Minecraft using Microsoft or Mojang accounts and can be downloaded here.](https://multimc.org) <br />
-[Minecraft JAR files can be downloaded from MCversions, linked here.](https://mcversions.net) <br />
+The Microsoft Minecraft launcher can be [downloaded using this link.](https://www.minecraft.net/en-us/about-minecraft) <br />
+MultiMC can run multiple instances of Minecraft using Microsoft or Mojang accounts. [Download MultiMC using this link.](https://multimc.org) <br />
+Minecraft JAR files can be downloaded from [MCversions, linked here.](https://mcversions.net) <br />
 
 We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
 Please note that Microsoft will require you to migrate your Mojang account over to a Microsoft Account. Please create a Microsoft account or use a personal gmail address. You will not be able to use your mxSchool email address for this.
