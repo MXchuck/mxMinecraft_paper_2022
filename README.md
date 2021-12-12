@@ -21,7 +21,7 @@ To join our server, first [fill out this short survey](https://forms.gle/KZ7fzXB
 ## Get Minecraft
 To run Minecraft on your computer, you will need Java version 17 and a Minecraft launcher:
 - [Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
-- [Microsoft's Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
+- Microsoft's [Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
 
 We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
 Microsoft encourages you to migrate your Mojang account over to a Microsoft Account. They are offering a free cape as an incentive, if you do it now. **You will not be able to use your mxSchool email address for this;** please create a Microsoft account or use a personal gmail address.
