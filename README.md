@@ -8,25 +8,26 @@ mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December
 
 Server Started on __ December 2021 <br />
 
-## Get Minecraft
-To run Minecraft on your computer, you will need Java version 17 and a Minecraft launcher:
-- [Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
-- [Microsoft's Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
-
-We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
-Please note that Microsoft will require you to migrate your Mojang account over to a Microsoft Account. Please create a Microsoft account or use a personal gmail address. You will not be able to use your mxSchool email address for this.
-
-Once you run Minecraft, choose multiplayer and add the multiplayer server URL: **minecraft.mxschool.edu**
-
-## How to join
-Contact one of our team captains below and ask for the link. You will be asked to fill out a short survey with your Minecraft username and agree to our server rules & policies.
-
 ## Server Rules
 - Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said or did it publicly in StuFac; all school rules and norms apply.
 - You must be a member of the Middlesex community in good standing with a verified account to access this server.
 - While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
 - [Click here to read our Security Policy](/SECURITY.md)
 - [Click here to read our Server Properties file](/server.properties)
+
+## Join us
+To join our server, first [fill out this short survey](https://forms.gle/KZ7fzXBzfMSAKNeE8) and agree to our server rules and policies. After we validate your user name, we will add you to the server list. Only whitelisted users will be able to enter. If you have questions about joining or the vetting process, please contact one of our club captains, listed below.
+
+## Get Minecraft
+To run Minecraft on your computer, you will need Java version 17 and a Minecraft launcher:
+- [Java SE Development Kit 17.0.1](https://www.oracle.com/java/technologies/downloads/)
+- [Microsoft's Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [MultiMC.](https://multimc.org)
+
+We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
+Microsoft encourages you to migrate your Mojang account over to a Microsoft Account. They are offering a free cape as an incentive, if you do it now. **You will not be able to use your mxSchool email address for this;** please create a Microsoft account or use a personal gmail address.
+[You can learn more about this migration from the Minecraft Help Centre](https://help.minecraft.net/hc/en-us/articles/4403181904525-How-to-Migrate-Your-Mojang-Account-to-a-Microsoft-Account)
+
+Once you run Minecraft, choose multiplayer and add the multiplayer server URL: **minecraft.mxschool.edu**
 
 ## About Us
 mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
