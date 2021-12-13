@@ -6,7 +6,7 @@ mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December
 1.18.1 is a minor update to Java Edition which makes minor changes related to fog and fixes bugs. <br />
 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
-Server Started on __ December 2021 <br />
+Server Started on 17 December 2021 <br />
 
 ## Server Rules
 - Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said or did it publicly in StuFac; all school rules and norms apply.
