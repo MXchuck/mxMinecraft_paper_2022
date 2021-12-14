@@ -14,6 +14,7 @@ Server Started on 17 December 2021 <br />
 - While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
 - [Click here to read our Security Policy](/SECURITY.md)
 - [Click here to read our Server Properties file](/server.properties)
+- [Click here to see our Data and Resource Packs](/MODS.md)
 
 ## Join us
 To join our server, first [fill out this short survey](https://forms.gle/KZ7fzXBzfMSAKNeE8) and agree to our server rules and policies. After we validate your user name, we will add you to the server list. Only whitelisted users will be able to enter. If you have questions about joining or the vetting process, please contact one of our club captains, listed below.
