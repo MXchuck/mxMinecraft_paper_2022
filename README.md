@@ -2,16 +2,15 @@
 Multiplayer Server for the mxMinecraft Club
 
 ## Version 1.18.1 - Caves and Cliffs: Part II
-mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December 2021. <br />
-1.18.1 is a minor update to Java Edition which makes minor changes related to fog and fixes bugs. <br />
-1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
+mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December 2021. 1.18.1 is a minor update to Java Edition which makes minor changes related to fog and fixes bugs. 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
 Server Started on 17 December 2021 <br />
 
 ## Server Rules
-- Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said or did it publicly in StuFac; all school rules and norms apply.
-- You must be a member of the Middlesex community in good standing with a verified account to access this server.
-- While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
+1 Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said or did it publicly in StuFac; all school rules and norms apply.
+1 You must be a member of the Middlesex community in good standing with a verified account to access this server.
+1 While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
+### Links
 - [Click here to read our Security Policy](/SECURITY.md)
 - [Click here to read our Server Properties file](/server.properties)
 - [Click here to see our Data and Resource Packs](/MODS.md)
