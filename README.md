@@ -13,9 +13,9 @@ Server will launch on 17 December 2021
 1. You must be a member of the Middlesex community in good standing with a verified account to access this server.
 1. While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
 ### Learn more about our server
-- [Click here to read our Security Policy](/SECURITY.md)
-- [Click here to read our Server Properties file](/server.properties)
-- [Click here to see our Data and Resource Packs](/MODS.md)
+- [Read our Security Policy](/SECURITY.md)
+- [Read our Server Properties file](/server.properties)
+- [See our Data and Resource Packs](/MODS.md)
 
 ## Join us
 To join our server, first [fill out this short survey](https://forms.gle/KZ7fzXBzfMSAKNeE8) and agree to our server rules and policies. After we validate your user name, we will add you to the server list. Only whitelisted users will be able to enter. If you have questions about joining or the vetting process, please contact one of our club captains, listed below.
