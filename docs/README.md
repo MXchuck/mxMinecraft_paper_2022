@@ -45,7 +45,8 @@ Middlesex School is an independent, secondary school following the New England b
 Learn more at: \<[https://mxschool.edu](https://mxschool.edu)\>.
 
 ### License
-[mxMinecraft](https://github.com/mxschool/mxMinecraft) © 2021 by [Charles J McDonald](https://github.com/MXchuck)
-is licensed under [Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
+Minecraft is licensed under the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula)
+
+[mxMinecraft](https://github.com/mxschool/mxMinecraft) \(This site, all generated world files, and our custom code not covered by Minecraft's EULA\) © 2021 by [Charles J McDonald](https://github.com/MXchuck) is licensed under [Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
