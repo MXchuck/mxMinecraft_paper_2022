@@ -47,4 +47,4 @@ Learn more at: \<[https://mxschool.edu](https://mxschool.edu)\>.
 ### License
 Minecraft is licensed under the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) © 2017 by [Mojang Studios](https://www.minecraft.net/en-us)
 
-[mxMinecraft](https://github.com/mxschool/mxMinecraft) \(This site, all generated world files, and all custom code not covered by Minecraft's EULA\) © 2021 by the Middlesex Minecraft Club is licensed under [Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/). Use the links above to contact us.
+[mxMinecraft](https://github.com/mxschool/mxMinecraft) \(This site, all generated world files, and all custom code not covered by Minecraft's EULA\) © 2021 by the Middlesex Minecraft Club and licensed under [Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/). Use the links above to contact us.
