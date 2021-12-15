@@ -43,3 +43,9 @@ The Minecraft Server JAR and all world files are not archived in this repository
 
 Middlesex School is an independent, secondary school following the New England boarding school tradition. <br />
 Learn more at: \<[https://mxschool.edu](https://mxschool.edu)\>.
+
+### License
+[mxMinecraft](https://github.com/mxschool/mxMinecraft) © 2021 by [Charles J McDonald](https://github.com/MXchuck)
+is licensed under [Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/
