@@ -18,7 +18,7 @@ Server will launch on 17 December 2021
 - [See our Data and Resource Packs](/docs/MODS.md)
 
 ## Join us
-To join our server, first [fill out this short survey](https://forms.gle/KZ7fzXBzfMSAKNeE8) and agree to our server rules and policies. After we validate your user name, we will add you to the server list. Only whitelisted users will be able to enter. If you have questions about joining or the vetting process, please contact one of our club captains, listed below.
+To join our server, first [fill out this short survey](https://forms.gle/KZ7fzXBzfMSAKNeE8) and agree to our server rules and policies. After we validate your user name, we will add you to the server list and our Google Group. Only whitelisted users will be able to enter. If you have questions about joining or the vetting process, please contact one of our club captains, listed below.
 
 ### Get Minecraft
 To run Minecraft on your computer, you will need Java version 17 and a Minecraft launcher:
@@ -27,7 +27,7 @@ To run Minecraft on your computer, you will need Java version 17 and a Minecraft
 
 We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
 Microsoft encourages you to migrate your Mojang account over to a Microsoft Account. They are offering a free cape as an incentive, if you do it now. **You will not be able to use your mxSchool email address for this;** please create a Microsoft account or use a personal gmail address.
-[You can learn more about this migration from the Minecraft Help Centre](https://help.minecraft.net/hc/en-us/articles/4403181904525-How-to-Migrate-Your-Mojang-Account-to-a-Microsoft-Account)
+Learn more about this migration from [the Minecraft Help Centre](https://help.minecraft.net/hc/en-us/articles/4403181904525-How-to-Migrate-Your-Mojang-Account-to-a-Microsoft-Account)
 
 Once you run Minecraft, choose multiplayer and add the multiplayer server URL: **minecraft.mxschool.edu**
 
