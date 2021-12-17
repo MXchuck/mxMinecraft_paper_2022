@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 8,
-    "description": "The first player to join the server, will auto advance time to morning."
+    "description": "When a player joins and is the only player and it's night time, the server will advance the time to morning."
   }
 }
