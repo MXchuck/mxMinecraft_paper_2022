@@ -15,7 +15,7 @@ Server will launch on 17 December 2021
 ### Learn more about our server
 - [Read our Security Policy](/docs/SECURITY.md)
 - [Read our Server Properties file](/server.properties)
-- [See our Data and Resource Packs](/docs/MODS.md)
+- [Review our Data and Resource Packs](/docs/MODS.md)
 
 ## Join us
 To join our server, first [fill out this short survey](https://forms.gle/KZ7fzXBzfMSAKNeE8) and agree to our server rules and policies. After we validate your user name, we will add you to the server list and our Google Group. Only whitelisted users will be able to enter. If you have questions about joining or the vetting process, please contact one of our club captains, listed below.
