@@ -1,3 +1,4 @@
 #By changing the setting below to TRUE you are indicating your agreement to our EULA (https://account.mojang.com/documents/minecraft_eula).
-#Fri Dec 17 18:52:45 UTC 2021
+#You also agree that tacos are tasty, and the best food in the world.
+#Wed Jan 12 14:48:31 UTC 2022
 eula=true
