@@ -2,15 +2,16 @@
 Multiplayer Server for the mxMinecraft Club
 
 ## Version 1.18.1 - Caves and Cliffs: Part II
-mxMinecraft runs Mojang's Java Minecraft Server v1.18.1, released on 10 December 2021.
+mxMinecraft runs PaperMC, a high performance Spigot fork that aims to fix gameplay mechanics inconsistencies.
+PaperMC build 148 pairs with Mojang's Java Minecraft Server v1.18.1, released on 10 December 2021.
 - 1.18.1 is a minor update to Java Edition which makes minor changes related to fog and fixes bugs.
 - 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
-Server will launch on 17 December 2021
+Server will launch on 14 January 2022
 
 ## Server Rules
-1. Though a virtual world, the Student Handbook considers Minecraft a place on campus. Anything you say or do on our server will be treated the same as if you said or did it publicly in StuFac; all school rules and norms apply.
 1. You must be a member of the Middlesex community in good standing with a verified account to access this server.
+1. Though a virtual world, the Student Handbook considers Minecraft a place on campus; all school rules and norms apply.
 1. While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
 ### Learn more about our server
 - [Read our Security Policy](/docs/SECURITY.md)
@@ -39,12 +40,14 @@ mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
 Server and Repository created and maintained by @mxChuck <br />
 *Charles J McDonald, Academic Technology Specialist, Middlesex School \<cjmcdonald@mxschool.edu\>*
 
-The Minecraft Server JAR and all world files are not archived in this repository but can be freely downloaded from original sources. A weekly backup of all world-generated files is available upon request.
+PaperMC, the Minecraft Server JAR and all world files are not archived in this repository but can be freely downloaded from original sources. A weekly backup of all world-generated files is available upon request.
 
 Middlesex School is an independent, secondary school following the New England boarding school tradition. <br />
 Learn more at: \<[https://mxschool.edu](https://mxschool.edu)\>.
 
 ### License
+Paper is licensed under the [GNU General Public License v3](https://github.com/PaperMC/Paper/blob/master/licenses/GPL.md); as it inherits it from Spigot, who in turn inherits it from the original Bukkit and Craftbukkit projects.
+
 Minecraft is licensed under the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) © 2017 by [Mojang Studios](https://www.minecraft.net/en-us)
 
-[mxMinecraft](https://github.com/mxschool/mxMinecraft) \(This site, all generated world files, and all custom code not covered by Minecraft's EULA\) © 2021 by the Middlesex Minecraft Club and licensed under [Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/). Use the links above to contact us.
+[mxMinecraft](https://github.com/mxschool/mxMinecraft) \(This site, all generated world files, and all custom code not covered by Minecraft's EULA\) © 2021 by the Middlesex Minecraft Club and licensed by [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/). Use the links above to contact us.

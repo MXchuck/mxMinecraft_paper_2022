@@ -3,7 +3,7 @@ Data Packs add or modify the way the game plays. These are applied server-side a
 
 ### Morning Join (Data)
 > Author: Chuck <br />
-> When a player joins the server, if they are the only player on and its night, the server will advance time to the next morning.
+> If no one is connected to the server and it is night time when a player joins, the server will advance time to the next morning.
 
 ### mxMinecraft (Resource)
 > Author: Chuck <br />
