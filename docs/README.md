@@ -40,7 +40,7 @@ mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
 Server and Repository created and maintained by @mxChuck <br />
 *Charles J McDonald, Academic Technology Specialist, Middlesex School \<cjmcdonald@mxschool.edu\>*
 
-PaperMC, the Minecraft Server JAR and all world files are not archived in this repository but can be freely downloaded from original sources. A weekly backup of all world-generated files is available upon request.
+PaperMC, the Minecraft Server JAR, and all world files are not archived in this repository but can be freely downloaded from original sources. A weekly backup of all world-generated files is available upon request.
 
 Middlesex School is an independent, secondary school following the New England boarding school tradition. <br />
 Learn more at: \<[https://mxschool.edu](https://mxschool.edu)\>.
