@@ -13,11 +13,11 @@ Data Packs add or modify the way the game plays. These are applied server-side a
 Server Plugins are Java Mods. These provide additional server-side functionality.
 
 ### DiscordDRV
-> Written by the DiscordSRV team and available from the Spigot library.
+> Written by the DiscordSRV team and available from the Spigot library. <br />
 > This mod adds chat and server command integration between the live server and our Discord server.
 > Read more from [their GitHub page](https://github.com/DiscordSRV/DiscordSRV)
 
 ### ServerBackup
-> Written by the SebliYT's and available from the Spigot library.
+> Written by the SebliYT's and available from the Spigot library. <br />
 > This mod adds and manages regular world backups.
 > Read more from the [Spigot library](https://www.spigotmc.org/resources/world-server-backup-1-8-1-18-x-multithreaded.79320/)
