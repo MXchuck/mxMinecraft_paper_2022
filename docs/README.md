@@ -50,4 +50,4 @@ Paper is licensed under the [GNU General Public License v3](https://github.com/P
 
 Minecraft is licensed under the [Minecraft EULA](https://account.mojang.com/documents/minecraft_eula) © 2017 by [Mojang Studios](https://www.minecraft.net/en-us)
 
-[mxMinecraft](https://github.com/mxschool/mxMinecraft) \(This site, all generated world files, and all custom code not covered by Minecraft's EULA\) © 2021 by the Middlesex Minecraft Club and licensed by [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/). Use the links above to contact us.
+[mxMinecraft](https://github.com/mxschool/mxMinecraft) \(This site, all generated world files, and all custom code not covered by one of the above licenses\) © 2022 by the Middlesex Minecraft Club and licensed by [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/). Use the links above to contact us.
