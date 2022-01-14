@@ -2,7 +2,7 @@
 Multiplayer Server for the mxMinecraft Club
 
 ## Version 1.18.1 - Caves and Cliffs: Part II
-mxMinecraft runs [PaperMC](https://papermc.io) build 152, a high performance Spigot fork that aims to fix inconsistencies with gameplay mechanics and Mojang's Java Minecraft Server v1.18.1.
+mxMinecraft runs Mojang's Java Minecraft Server v1.18.1 via the latest version of [PaperMC](https://papermc.io), a high performance Spigot fork that aims to fix inconsistencies with gameplay mechanics.
 - 1.18.1 is a minor update to Java Edition, released December 2021, which makes minor changes related to fog and fixes bugs.
 - 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
