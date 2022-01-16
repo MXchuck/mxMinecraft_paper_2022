@@ -13,6 +13,7 @@ Server launch on 14 January 2022
 1. Though a virtual world, the Student Handbook considers Minecraft a place on campus; all school rules and norms apply.
 1. While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you.
 ### Learn more about our server
+- [See out Account Directory](https://docs.google.com/spreadsheets/d/1OC_BSh0Q5FNgMjvs5Eii5xALCuTTRa0i-7YqKeL5Edg/edit?usp=sharing)
 - [Read our Security Policy](/docs/SECURITY.md)
 - [Read our Server Properties file](/server.properties)
 - [Review our Data and Resource Packs](/docs/MODS.md)
