@@ -6,7 +6,7 @@ mxMinecraft runs Mojang's Java Minecraft Server v1.18.1 via the latest version o
 - 1.18.1 is a minor update to Java Edition, released December 2021, which makes minor changes related to fog and fixes bugs.
 - 1.18 completely overhauls Overworld generation, with larger caves, taller mountains, new cave biomes, and flooded caves.
 
-Server launch on 14 January 2022
+Server launched on 14 January 2022
 
 ## Server Rules
 1. You must be a member of the Middlesex community in good standing with a verified account to access this server.
