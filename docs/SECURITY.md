@@ -14,7 +14,7 @@ Chuck is the Academic Technology Specialist. He responds to security incident re
 1. While pranks and friendly mischief can be fun amongst friends, malicious griefing crosses a line and is not allowed. Anytime you are unsure, please employ empathy and ask how you'd feel if it happened to you, then apply [Wheaton's Law](http://www.wheatonslaw.com).
 
 ## Reporting community problems
-Our Co-Captains, Jojo and Nick, along with several of our club members, are Senior Leaders and even Proctors. We trust their judgement and rely on their leadership to determine if something is inappropriate and intervene, as they deem appropriate. Please reach out to them in game, if they are available, for immediate assistance.
+Our Co-Captains, Jojo and Nick, along with several of our club members, are Senior Leaders and even Proctors. We trust their judgement and rely on their leadership to determine if something is inappropriate and intervene, as they deem appropriate. If you have questions or concerns, please reach out to them directly.
 
 You should also followup on any in-game issues with our club leadership via email.
 - Nick DeBruin, Co-Captain, Class of 2022, \<nfdebruin@mxschool.edu\>
