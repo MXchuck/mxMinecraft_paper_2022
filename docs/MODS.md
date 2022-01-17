@@ -26,13 +26,13 @@ Server Plugins are Java Mods. These provide additional server-side functionality
 These mods are in development or under consideration as possible future additions to our server.
 
 ### Bundles
-> Author: Chuck
-> Current state: Idea
+> Author: Chuck  <br />
+> Current state: Idea  <br />
 > The 1.19 feature of bundles looks cool and might be do-able as a data pack. We are exploring this possibility.
 
 ### Insomnia
-> Author: Chuck
-> Current state: Idea
+> Author: Chuck  <br />
+> Current state: Idea  <br />
 > This datapack would collect features we've used in other mods.
 > 1. Track AFK players. Players who are AFK and OPs will not count against the sleep percentage.
 > 2. Players who do not explicitly sleep are marked as Insomniacs.
@@ -40,11 +40,11 @@ These mods are in development or under consideration as possible future addition
 > 4. When spawned, phantoms will be 20% larger for each night an Insomniac has not slept.
 
 ### Rotten Flesh to Leather
-> Author: VanillaTweaks.net
-> Current state: Ready
+> Author: VanillaTweaks.net  <br />
+> Current state: Ready  <br />
 > Smelt rotten flesh to get leather. This idea would pair nicely with the Bundles idea.
 
 ### Player Head Drops
-> Author: VanillaTweaks.net
-> Current state: Ready
+> Author: VanillaTweaks.net  <br />
+> Current state: Ready  <br />
 > When you kill a player, their head drops as a trophy.
