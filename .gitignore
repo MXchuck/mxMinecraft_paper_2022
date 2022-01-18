@@ -1,5 +1,4 @@
 .DS_Store
-minecraft_server_1.18.1.jar
-paper-1.18*
-DiscordSRV-Build*
-ServerBackup.jar
+DiscordSRV/config.yml
+Backups*
+*.jar
