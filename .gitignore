@@ -1,4 +1,5 @@
 .DS_Store
-DiscordSRV/config.yml
+plugins/DiscordSRV/config*
 Backups*
 *.jar
+mxMinecraft*
