@@ -4,10 +4,6 @@
 [
   {
     "claims": 100,
-    "name": "some_random_example_rank"
-  },
-  {
-    "claims": 200,
-    "name": "another_random_example_rank"
+    "name": "Player"
   }
 ]
