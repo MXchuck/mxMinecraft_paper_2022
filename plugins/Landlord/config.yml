@@ -14,8 +14,8 @@ MySQL:
 # https://regexr.com/
 # world_.* matches all worlds that start with "world_"
 disabled-worlds:
-  - world_nether
-  - world_the_end
+#  - world_nether
+#  - world_the_end
 
 language: en
 
@@ -69,7 +69,7 @@ Growth:
 # on unclaim, this percentage of the original price is paid back.
 Payback: 0.8
 # amount of free lands every user got before he has to pay
-Freelands: 1
+Freelands: 1000
 # cost for regenerate inside ll manage
 ResetCost: 1000.0
 
@@ -125,7 +125,7 @@ SecureWorld:
   worlds:
   # If player reach this treshold (amount of ownedlands) they will be able to build in the normal world)
   # This way you can allow your veteran players to be able to build pathes and commonly used stuff in the world, but prevent newbies from griefing
-  threshold: 10
+  threshold: 1000
   perWorld: true
   # Where to display the warning that you are not to allowed in free lands until x lands has been reached: ActionBar, Chat, Title, Disabled
   displayWarning: ActionBar
